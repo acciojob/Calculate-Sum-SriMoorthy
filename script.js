@@ -1,7 +1,7 @@
 //your JS code here. If required.
 let num1 = document.getElementById('n1')
 let num2 = document.getElementById('n2')
-let sm = document.getElementById('sum')
+let sm = document.getElementById('Sum')
 let sum = 0;
 
 function Calculate() {
